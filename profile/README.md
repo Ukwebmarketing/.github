@@ -27,13 +27,45 @@ Hand-crafted, AI-assisted UK website systems. EU-sovereign by design.
 
 ---
 
+## 📊 By the numbers
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <h1>90+</h1>
+      <sub><strong>live UK sites</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <h1>19</h1>
+      <sub><strong>industries shipped</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <h1>99/100</h1>
+      <sub><strong>PageSpeed (desktop)</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <h1>£45</h1>
+      <sub><strong>starting tier · /mo</strong></sub>
+    </td>
+    <td align="center" width="20%">
+      <h1>1</h1>
+      <sub><strong>engineer answers your email</strong></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📑 Contents
 
 - [What we run](#-what-we-run)
+- [How it works](#-how-it-works)
+- [UKWM vs the traditional agency](#-ukwm-vs-the-traditional-agency)
 - [Verifiable proof](#-verifiable-proof)
 - [Engineering principles](#-engineering-principles)
 - [The stack](#-the-stack)
 - [Compliance + security](#-compliance--security)
+- [Recent thinking](#-recent-thinking)
 - [Get in touch](#-get-in-touch)
 - [About this organisation](#-about-this-organisation)
 
@@ -52,6 +84,48 @@ Not project work — infrastructure. Every site we ship is designed, built, host
 | 📅 **Service businesses** | Booking and ordering modules via [TWHQ](https://ticketwavehq.com) — first-party, no third-party iframes |
 
 90+ live UK sites across **19 industries**.
+
+---
+
+## ⚡ How it works
+
+```mermaid
+flowchart LR
+    A[Free audit] -->|20s · URL only| B[One-page PDF]
+    B -->|If you want to talk| C[15-min intro call]
+    C -->|If we both want to proceed| D[Pick a tier]
+    D -->|£45 · £195 · Bespoke| E[Build + ship]
+    E -->|Same engineer, same hands| F[Continually maintained]
+    F -->|Cancel any month| G[You own the result]
+
+    style A fill:#fcd34d,stroke:#0b0620,color:#0b0620
+    style B fill:#fff,stroke:#5b4fe5,color:#0b0620
+    style C fill:#fff,stroke:#5b4fe5,color:#0b0620
+    style D fill:#5b4fe5,stroke:#5b4fe5,color:#fff
+    style E fill:#5b4fe5,stroke:#5b4fe5,color:#fff
+    style F fill:#5b4fe5,stroke:#5b4fe5,color:#fff
+    style G fill:#0cce6b,stroke:#0b0620,color:#fff
+```
+
+No sales pitch, no proposal deck, no agency-onboarding theatre. The audit is the pitch. If you want to keep going after reading it, we set up a tier and ship.
+
+---
+
+## ⚖️ UKWM vs the traditional agency
+
+| | UKWM | Typical UK web agency |
+|---|---|---|
+| **Pricing model** | Subscription, £45 / £195 / quoted | One-off £3k–£15k project + maintenance retainer |
+| **Setup fee** | None | £500–£2,000 |
+| **Who builds it** | One engineer, same one, every month | Junior team, account-manager handover, offshore implementer |
+| **Code** | Hand-crafted Astro, no themes | WordPress + paid theme + 30 plugins |
+| **Hosting** | EU-sovereign edge, included | Shared cPanel hosting at extra cost |
+| **Updates** | Continuous; same engineer | Quarterly review meetings |
+| **Cancellation** | Any month, no penalty | 12-month minimum contract |
+| **Page speed** | 99/100 desktop, 91/100 mobile | Often 30–50 mobile |
+| **Accessibility** | WCAG 2.2 AA built in | Overlay widget bolted on |
+| **Owner of the site** | You, transferred on request after 12 paid months | "Yours" but locked to the agency's hosting and CMS |
+| **Pricing on the website** | [Public, visible, simple](https://ukwebmarketing.com/pricing) | "Get in touch for a quote" |
 
 ---
 
@@ -163,6 +237,21 @@ We maintain SOC 2 readiness documentation aligned to Common Criteria + the four 
 
 We are **not** currently SOC 2 or ISO 27001 attested. We don't claim either.
 </details>
+
+---
+
+## 📰 Recent thinking
+
+A selection from the [UKWM blog](https://ukwebmarketing.com/blog) — sector-specific deep dives on why UK SMB sites fail, and what to do about it:
+
+- 📚 [Why your UK clinic website probably breaks GDPR](https://ukwebmarketing.com/blog/why-your-uk-clinic-website-probably-breaks-gdpr)
+- ⚖️ [Why your UK law firm website probably fails SRA confidentiality](https://ukwebmarketing.com/blog/why-your-uk-law-firm-website-probably-fails-sra-confidentiality)
+- 🎓 [Why your UK school website probably fails KCSIE](https://ukwebmarketing.com/blog/why-your-uk-school-website-probably-fails-kcsie)
+- 📊 [Why your UK accountancy website probably fails ICAEW confidentiality](https://ukwebmarketing.com/blog/why-your-uk-accountancy-website-probably-fails-icaew-confidentiality)
+- 💰 [Why I moved to monthly subscription pricing](https://ukwebmarketing.com/blog/why-monthly-subscription)
+- 🚀 [When to upgrade Foundation → Growth Engine](https://ukwebmarketing.com/blog/when-to-upgrade-from-foundation-to-growth-engine)
+
+→ [All 32+ articles + RSS feed](https://ukwebmarketing.com/blog)
 
 ---
 
