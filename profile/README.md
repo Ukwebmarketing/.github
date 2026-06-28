@@ -15,7 +15,7 @@
 Hand-crafted, AI-assisted UK website systems. EU-sovereign by design.
 
 [![Live](https://img.shields.io/badge/Status-live-22c55e?style=flat-square&labelColor=0b0620)](https://ukwebmarketing.com)
-[![From £45/month](https://img.shields.io/badge/Pricing-from%20%C2%A345%2Fmonth-fcd34d?style=flat-square&labelColor=0b0620)](https://ukwebmarketing.com/pricing)
+[![From £49/month](https://img.shields.io/badge/Pricing-from%20%C2%A349%2Fmonth-fcd34d?style=flat-square&labelColor=0b0620)](https://ukwebmarketing.com/pricing)
 [![EU-sovereign](https://img.shields.io/badge/Hosting-EU%E2%80%91sovereign-5b4fe5?style=flat-square&labelColor=0b0620)](#-compliance--security)
 [![WCAG 2.2 AA](https://img.shields.io/badge/WCAG%202.2-AA-0cce6b?style=flat-square&labelColor=0b0620)](#-compliance--security)
 [![PageSpeed 99/100](https://img.shields.io/badge/PageSpeed-99%20%2F%20100-0cce6b?style=flat-square&labelColor=0b0620)](https://pagespeed.web.dev/analysis/https-ukwebmarketing-com/hii89eoi7d)
@@ -44,7 +44,7 @@ Hand-crafted, AI-assisted UK website systems. EU-sovereign by design.
       <sub><strong>PageSpeed (desktop)</strong></sub>
     </td>
     <td align="center" width="20%">
-      <h1>£45</h1>
+      <h1>£49</h1>
       <sub><strong>starting tier · /mo</strong></sub>
     </td>
     <td align="center" width="20%">
@@ -73,7 +73,16 @@ Hand-crafted, AI-assisted UK website systems. EU-sovereign by design.
 
 ## 🏗 What we run
 
-Not project work — infrastructure. Every site we ship is designed, built, hosted and continually upgraded by the same engineer, every month. Three tiers from £45/month, cancel any time under UK Consumer Contracts Regulations.
+Not project work — infrastructure. Every site we ship is designed, built, hosted and continually upgraded by the same engineer, every month. Four verb-named tiers from £49/month, plus a £295 launch fee (waived on annual plans), cancel any time under UK Consumer Contracts Regulations.
+
+| Tier | Price | What it does |
+|---|---|---|
+| 🟢 **Get Online** | £49/month | The credible foundation — fast, accessible site, EU-sovereign hosting |
+| 📈 **Get Booked** | £149/month | Bookings, ordering, lead capture wired into TWHQ — turn visitors into customers |
+| 🚀 **Get Growing** | £395/month | Conversion, CRM (Capsule), monthly growth experiments, content velocity |
+| 👑 **Local Domination** | from £695/month | Multi-location SEO, paid acquisition oversight, dedicated growth engineer |
+
+**Plus** £295 launch fee, waived on annual plans. For regulated or managed-infrastructure briefs (clinics, law firms, accountancy, multi-site), see our premium sibling brand **[Custodiance](https://custodiance.com)** — built to your regulator's standard.
 
 | Vertical | What we ship |
 |---|---|
@@ -94,7 +103,7 @@ flowchart LR
     A[Free audit] -->|20s · URL only| B[One-page PDF]
     B -->|If you want to talk| C[15-min intro call]
     C -->|If we both want to proceed| D[Pick a tier]
-    D -->|£45 · £195 · Bespoke| E[Build + ship]
+    D -->|£49 · £149 · £395 · £695| E[Build + ship]
     E -->|Same engineer, same hands| F[Continually maintained]
     F -->|Cancel any month| G[You own the result]
 
@@ -115,8 +124,8 @@ No sales pitch, no proposal deck, no agency-onboarding theatre. The audit is the
 
 | | UKWM | Typical UK web agency |
 |---|---|---|
-| **Pricing model** | Subscription, £45 / £195 / quoted | One-off £3k–£15k project + maintenance retainer |
-| **Setup fee** | None | £500–£2,000 |
+| **Pricing model** | Subscription, £49 / £149 / £395 / from £695 | One-off £3k–£15k project + maintenance retainer |
+| **Setup fee** | £295 launch fee, waived on annual plans | £500–£2,000 |
 | **Who builds it** | One engineer, same one, every month | Junior team, account-manager handover, offshore implementer |
 | **Code** | Hand-crafted Astro, no themes | WordPress + paid theme + 30 plugins |
 | **Hosting** | EU-sovereign edge, included | Shared cPanel hosting at extra cost |
@@ -182,7 +191,7 @@ What we believe about how a website should be built + run:
 | **Transactional email** | [Resend](https://resend.com) with verified custom domain DKIM |
 | **Booking + ordering** | [TWHQ](https://ticketwavehq.com) — our first-party modules |
 | **Analytics** | [Plausible](https://plausible.io) — privacy-friendly, no cookies |
-| **CRM (Growth Engine tier)** | [Capsule CRM](https://capsulecrm.com) |
+| **CRM (Get Growing tier and above)** | [Capsule CRM](https://capsulecrm.com) |
 | **Search** | [Pagefind](https://pagefind.app) — client-side, no third-party tracking |
 | **CI / Deploy** | GitHub Actions → Vercel; preview deploy per PR |
 
@@ -249,7 +258,6 @@ A selection from the [UKWM blog](https://ukwebmarketing.com/blog) — sector-spe
 - 🎓 [Why your UK school website probably fails KCSIE](https://ukwebmarketing.com/blog/why-your-uk-school-website-probably-fails-kcsie)
 - 📊 [Why your UK accountancy website probably fails ICAEW confidentiality](https://ukwebmarketing.com/blog/why-your-uk-accountancy-website-probably-fails-icaew-confidentiality)
 - 💰 [Why I moved to monthly subscription pricing](https://ukwebmarketing.com/blog/why-monthly-subscription)
-- 🚀 [When to upgrade Foundation → Growth Engine](https://ukwebmarketing.com/blog/when-to-upgrade-from-foundation-to-growth-engine)
 
 → [All 32+ articles + RSS feed](https://ukwebmarketing.com/blog)
 
@@ -285,6 +293,6 @@ Repositories under this organisation are **private by default**. This `.github` 
 
 <div align="center">
 
-<sub><em>Last updated: 2026-06-05 · This page is maintained at <a href="https://github.com/ukwebmarketing/.github/blob/main/profile/README.md">ukwebmarketing/.github</a></em></sub>
+<sub><em>Last updated: 2026-06-28 · This page is maintained at <a href="https://github.com/ukwebmarketing/.github/blob/main/profile/README.md">ukwebmarketing/.github</a></em></sub>
 
 </div>
