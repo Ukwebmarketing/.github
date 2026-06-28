@@ -25,4 +25,4 @@ Edit `profile/README.md`, commit, push. Cache propagates within minutes.
 
 ---
 
-Repos under the org are private by default. This `.github` repo is the only public face — same pattern Orenva uses.
+Repos under the org are private by default. This `.github` repo is the only public face.
