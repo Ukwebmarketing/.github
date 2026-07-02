@@ -62,11 +62,15 @@ Hand-crafted, AI-assisted UK website systems. EU-sovereign by design.
 
 Browse more: [our public repositories](https://github.com/orgs/Ukwebmarketing/repositories).
 
+See the full gallery: [Ukwebmarketing/showcase](https://github.com/Ukwebmarketing/showcase), the live client sites and the stack behind each.
+
 ---
 
 ## 🧰 Our stack
 
 Built on open-source foundations we maintain: [site-templates](https://github.com/sansware/site-templates), the Astro skeleton behind our builds, and the [EU-sovereignty checklist](https://github.com/sansware/eu-sovereignty-checklist), the audit we run on every stack.
+
+How we keep sites healthy: [website-care-checklist](https://github.com/Ukwebmarketing/website-care-checklist), the monthly managed-care checklist we run.
 
 ---
 
