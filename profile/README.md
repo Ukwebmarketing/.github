@@ -56,8 +56,39 @@ Hand-crafted, AI-assisted UK website systems. EU-sovereign by design.
 
 ---
 
+## 🌟 Showcase
+
+- **[Perfect Prep](https://github.com/Ukwebmarketing/perfect-prep)** - 100% halal meal prep & catering (Yorkshire & Teesside), live at [getperfectprep.com](https://getperfectprep.com). An Astro static site we built and manage.
+
+Browse more: [our public repositories](https://github.com/orgs/Ukwebmarketing/repositories).
+
+---
+
+## 🧰 Our stack
+
+Built on open-source foundations we maintain: [site-templates](https://github.com/sansware/site-templates), the Astro skeleton behind our builds, and the [EU-sovereignty checklist](https://github.com/sansware/eu-sovereignty-checklist), the audit we run on every stack.
+
+---
+
+## 🤝 Sister brands
+
+- **[Custodiance](https://custodiance.com)** - CTO-led managed web & email infrastructure for UK regulated practices.
+- **[TicketWave HQ](https://ticketwavehq.com)** ([@TicketWaveHQ](https://github.com/TicketWaveHQ)) - white-label commerce for events, food and bookings.
+
+---
+
+## 👤 Founder
+
+Built by [Jordan Gilbert](https://github.com/sansware), bio at [ukwebmarketing.com/jordan](https://ukwebmarketing.com/jordan).
+
+---
+
 ## 📑 Contents
 
+- [Showcase](#-showcase)
+- [Our stack](#-our-stack)
+- [Sister brands](#-sister-brands)
+- [Founder](#-founder)
 - [What we run](#-what-we-run)
 - [How it works](#-how-it-works)
 - [UKWM vs the traditional agency](#-ukwm-vs-the-traditional-agency)
