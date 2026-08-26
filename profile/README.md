@@ -398,3 +398,25 @@ Repositories under this organisation are **private by default**. This `.github` 
 ```
 
 </details>
+
+---
+
+## Where the work lives
+
+UK Web Marketing is a brand of **TicketWave HQ Ltd** (company no. 17143167). The client sites,
+the shared site kit and the public tooling all live in that organisation:
+
+**→ [github.com/TicketWaveHQ](https://github.com/TicketWaveHQ)**
+
+Public repositories you can read there:
+
+| | |
+|---|---|
+| [`showcase`](https://github.com/TicketWaveHQ/showcase) | Live client sites and the exact stack behind each |
+| [`website-care-checklist`](https://github.com/TicketWaveHQ/website-care-checklist) | The monthly managed-site care checklist, runnable |
+| [`site-templates`](https://github.com/TicketWaveHQ/site-templates) | The Astro starter used to ship production small-business sites |
+| [`astro-performance-budget`](https://github.com/TicketWaveHQ/astro-performance-budget) | Lighthouse CI budgets and workflow |
+| [`uk-gdpr-dpa-templates`](https://github.com/TicketWaveHQ/uk-gdpr-dpa-templates) | Plain-English UK GDPR DPA and sub-processor templates |
+| [`eu-sovereignty-checklist`](https://github.com/TicketWaveHQ/eu-sovereignty-checklist) | Quarterly EEA-residency verification, with the script |
+
+This organisation is kept as the brand's canonical GitHub presence.
