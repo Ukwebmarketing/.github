@@ -17,7 +17,7 @@ Formerly UK Web Marketing. Operated by TicketWave HQ Ltd.
 - **Websites, designed, built and run.** Hosting, updates, security patching, backups and edits, with one point of contact. That includes moving an existing site across, and adding bookings, ordering, stock or ticketing.
 - **Search.** Local search and Google Business Profile, technical SEO, and AI search.
 - **Marketing systems.** Lead generation, marketing automation, CRM, email and SMS, and plain-English reporting.
-- **Domains and business email.** Including the records that get email delivered.
+- **Domains and email campaigns.** The website's domain, and the marketing email and SMS that bring customers back. Business email itself is set up by Dacros.
 - **Creative production.** Photography, video, brand basics and social content, made by the same studio that builds the site.
 
 Sites are built to WCAG 2.2 AA as standard.
@@ -31,7 +31,7 @@ Sites are built to WCAG 2.2 AA as standard.
 ## Also from TicketWave HQ Ltd
 
 - **[JorTech](https://www.jortech.co.uk)**: computer, laptop and device repair for homes and small offices across Leeds and Yorkshire.
-- **[Dacros](https://dacros.com)**: managed IT support and cyber security for UK small businesses.
+- **[Dacros](https://dacros.com)**: managed IT, business email and cyber security for UK small businesses.
 - **[TicketWave HQ](https://ticketwavehq.com)** ([@TicketWaveHQ](https://github.com/TicketWaveHQ)): the company itself, its practices, and the work it sells directly.
 
 ## Published work
