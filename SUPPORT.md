@@ -1,6 +1,6 @@
 # Support
 
-Most repositories under the [`ukwebmarketing`](https://github.com/ukwebmarketing) GitHub organisation are private client repositories. If you are a UK Web Marketing client, contact us through your usual channel — email, WhatsApp, or the audit form on [ukwebmarketing.com](https://ukwebmarketing.com).
+Most repositories under the [`ukwebmarketing`](https://github.com/ukwebmarketing) GitHub organisation are private client repositories. If you are a UK Web Marketing client, contact us by email or through the audit form on [ukwebmarketing.com](https://ukwebmarketing.com).
 
 For everyone else, route by topic:
 
