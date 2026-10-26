@@ -31,7 +31,7 @@ Sites are built to WCAG 2.2 AA as standard.
 ## Also from TicketWave HQ Ltd
 
 - **[JorTech](https://www.jortech.co.uk)**: computer, laptop and device repair for homes and small offices across Leeds and Yorkshire.
-- **[Dacros](https://dacros.com)**: managed IT, business email and cyber security for UK small businesses.
+- **[Dacros](https://dacros.com)**: managed IT support and cyber security for businesses across the UK, remote first, on site by arrangement.
 - **[TicketWave HQ](https://ticketwavehq.com)** ([@TicketWaveHQ](https://github.com/TicketWaveHQ)): the company itself, its practices, and the work it sells directly.
 
 ## Published work
